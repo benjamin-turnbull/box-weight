@@ -6,8 +6,7 @@
 
 #include <stdio.h>
 
-int main(void)
-{
+int main(void) {
     int height, length, width, volume, weight;
 
     printf("Enter height of box: \n");
